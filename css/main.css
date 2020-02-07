@@ -110,7 +110,7 @@ header .carousel-inner > .item > img {
     background-repeat: no-repeat
 }
 
-header .carousel-inner > .item > img{opacity: .5;}
+header .carousel-inner > .item > img{opacity: .5; width: 100%}
 
 /* star caption*/
 header .carousel-caption{bottom: 35%;}
